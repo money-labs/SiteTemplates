@@ -1,6 +1,6 @@
 git repo: https://github.com/money-labs/SiteTemplates
 
-
+CREATE NEW REPOSITORY AND PUSH TO GITHUB
 
 Create a new repository on GitHub. You can also add a gitignore file, a readme and a licence if you want
 Open Git Bash
